@@ -1,0 +1,8 @@
+# Par defaut, tout le depot relu par le lead
+* @killianrak
+
+# Dossier critique : relu par le lead (remplacer par une equipe si org)
+/paiement/ @killianrak
+
+# Fichiers de config CI relus par le lead
+*.yml @killianrak
